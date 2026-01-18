@@ -4,9 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header"/>
 </picture>
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VybzZpZ2g0MTIxejhhcTJsYzFkdDF4c3BteWwxN293bW5zY25qcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif" width="500"/>
-</div>
+
 
 <div align="center">
 
