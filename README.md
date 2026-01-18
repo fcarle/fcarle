@@ -5,6 +5,10 @@
 </picture>
 
 <div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VybzZpZ2g0MTIxejhhcTJsYzFkdDF4c3BteWwxN293bW5zY25qcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif" width="300"/>
+</div>
+
+<div align="center">
 
 # Hey, I'm Fabian 👋
 
@@ -119,6 +123,10 @@ const fabian = {
   <a href="mailto:fabian@lysio.com">
     <img src="https://img.shields.io/badge/Let's_Talk-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
+  <br/><br/>
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNiMWNmcTR0ZDU1cnNkdGJpY3Nuend3amVnY28zZWVqM21iNnozdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFkiFMDg3iFoI/giphy.gif" width="200"/>
 
 </div>
 
