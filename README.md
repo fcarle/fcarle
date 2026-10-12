@@ -33,7 +33,7 @@
 ```typescript
 const fabian = {
     location: "EU 🇪🇺",
-    role: "Full Stack Developer & Contract CTO",
+    role: "Full Stack",
     experience: ["Google", "Startups", "Contract Work"],
     currentFocus: ["Deep Learning", "ML", "Kotlin"],
     philosophy: "Ship fast, iterate faster"
