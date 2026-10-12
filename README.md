@@ -10,7 +10,7 @@
 
 # Hey, I'm Fabian 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Ex-Google+%E2%80%A2+Contract+CTO+%E2%80%A2+Full+Stack;Building+products+that+matter)](https://fabian.best)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Ex-Google+%E2%80%A2+%E2%80%A2+Full+Stack;Building+products+that+matter)](https://fabian.best)
 
 <br/>
 
